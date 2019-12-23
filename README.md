@@ -17,7 +17,7 @@ The usage is as follows.
 2. Place it anywhere.
 3. Write the task in gulpfile.js as follows.
     ```javascript
-    const atlassianConnectValidator = require("gulp-atlassian-connect-validator.js");
+    const atlassianConnectValidator = require("gulp-atlassian-connect-validator");
     const descriptor = require("<path to directory>/atlassian-connect.json");
     const schema = require("<path to directory>/<Schema file >");
     
