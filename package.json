@@ -15,7 +15,6 @@
     "url" : "https://github.com/silverskyvicto/gulp-atlassian-connect-validator/issues"
   },
   "author": "Yuuki Ebihara",
-  "license": "Apache-2.0",
   "dependencies": {
     "atlassian-connect-validator": "0.0.9",
     "plugin-error": "^1.0.1",
