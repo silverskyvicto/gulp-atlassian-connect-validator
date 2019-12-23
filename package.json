@@ -1,0 +1,24 @@
+{
+  "name": "gulp-atlassian-connect-validator",
+  "version": "0.9.0",
+  "description": "Gulp plugin to validate atlassian-connect.json schema.",
+  "keywords": ["gulp", "Atlassian", "Cloud", "schema", "validate", "descriptor"],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "git+https://github.com/silverskyvicto/gulp-atlassian-connect-validator.git"
+  },
+  "bugs": {
+    "url" : "https://github.com/silverskyvicto/gulp-atlassian-connect-validator/issues"
+  },
+  "author": "Yuuki Ebihara",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "atlassian-connect-validator": "0.0.9",
+    "plugin-error": "^1.0.1",
+    "through2": "^3.0.1"
+  }
+}
